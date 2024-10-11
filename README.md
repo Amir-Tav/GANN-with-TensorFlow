@@ -78,5 +78,5 @@ This project successfully demonstrates how to:
 * Build a GAN with TensorFlow and Keras.
 * Train the model and visualize generated images.
 * Evaluate the performance of the generator and discriminator.
-
+*also note: the model is only trained with 5 epoch, but the outcome is still impresive!
 ---
