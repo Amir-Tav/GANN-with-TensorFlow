@@ -1,5 +1,13 @@
 {
     "cSpell.words": [
-        "dataiterator"
+        "backprop",
+        "backpropagation",
+        "BINARYCROSS",
+        "dataiterator",
+        "dgrad",
+        "fashongnn",
+        "ggrad",
+        "realfake",
+        "yhat"
     ]
 }
